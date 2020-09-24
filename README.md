@@ -93,3 +93,4 @@ When the wizard is done, restart the application and run the exploits again to c
 
 # Test
 New text ....
+Version 1.0
